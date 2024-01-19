@@ -1,4 +1,4 @@
-package com.mycompany.christcovenantdeliveranceministry
+package com.mycompany.ccdmglobal
 
 import io.flutter.embedding.android.FlutterActivity
 
