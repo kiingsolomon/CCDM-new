@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "595413667012",
+    "project_id": "ccdm-global",
+    "storage_bucket": "ccdm-global.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595413667012:android:3c3f4a215a4f084f3f0d91",
+        "android_client_info": {
+          "package_name": "com.mycompany.christcovenantdeliveranceministry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595413667012-jqn4snm20gro0fbd0lh0s6k17qbu807a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.christcovenantdeliveranceministry",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "595413667012-f7aghpqm69p1ifmkst18dlvfso5uqopd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEiiUewPl3EvttYqAaamDZzrgpOrgGmLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595413667012-f7aghpqm69p1ifmkst18dlvfso5uqopd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595413667012-4o637i31va9bso3phbo87a8fllvqkp95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.christcovenantdeliveranceministry"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
