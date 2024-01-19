@@ -52,7 +52,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 3
-        versionName flutterVersionName
+        versionName 2.0
     }
 
    signingConfigs {
